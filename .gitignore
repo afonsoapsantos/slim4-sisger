@@ -1,10 +1,2 @@
-#arquivos para ignorar
-.dockerrc
-
 #pastas para ignorar
-.phpintel/
-.doctrine/
-.illuminate/
-.nesbot/
 vendor/
-.idea/
